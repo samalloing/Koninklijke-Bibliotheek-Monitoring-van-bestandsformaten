@@ -1,0 +1,215 @@
+FormatID,FormatName,FormatVersion,ReleaseDate,ExternalSignature,PUID,MIME,Source
+668,JPEG File Interchange Format,1.01,1992,jpg jpe jpeg jif jfif jfi,fmt/43,image/jpeg,https://jpeg.org/jpeg/
+669,JPEG File Interchange Format,1.02,01 Sep 1992,jpg jpe jpeg jif jfif jfi,fmt/44,image/jpeg,https://www.nationalarchives.gov.uk/PRONOM/fmt/44
+1099,Tagged Image File Format,,01 Aug 1986,tif tiff,fmt/353,image/tiff,https://www.nationalarchives.gov.uk/PRONOM/fmt/353
+672,Exchangeable Image File Format (Uncompressed),2.2,2002/04,tif tiff,x-fmt/387,image/tiff,https://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+643,Extensible Hypertext Markup Language,1.0,26 Jan 2000,html htm,fmt/102,application/xhtml+xml,https://www.nationalarchives.gov.uk/PRONOM/fmt/102
+799,Tagged Image File Format for Internet Fax (TIFF-FX),,1986/09/12,tif tiff tfx,fmt/156,image/tiff,https://nl.wikipedia.org/wiki/Tagged_image_file_format
+615,Acrobat PDF 1.2 - Portable Document Format,1.2,1996/11,pdf,fmt/16,application/pdf,https://www.prepressure.com/pdf/basics/version
+690,Microsoft Word Document,97-2003,1996/02/28,doc wbk,fmt/40,application/msword,https://microsoft.fandom.com/wiki/Microsoft_Office_97
+637,Acrobat PDF 1.6 - Portable Document Format,1.6,01 Jan 2004,pdf,fmt/20,application/pdf,https://www.nationalarchives.gov.uk/PRONOM/fmt/20
+822,Microsoft Outlook Email Message,97-2003,1996/02/28,msg oft,x-fmt/430,,https://microsoft.fandom.com/wiki/Microsoft_Office_97
+163,Plain Text File,,1963,txt,x-fmt/111,text/plain,https://everydaycomputeruser.blogspot.com/2020/11/plain-text.html
+1160,Microsoft Word for Windows,2007 onwards,2007/01/30,docx wbk,fmt/412,application/vnd.openxmlformats-officedocument.wordprocessingml.document,https://microsoft.fandom.com/wiki/Microsoft_Office_2007
+684,Microsoft Excel 97 Workbook (xls),8,1996/02/28,xls xlw,fmt/61,application/vnd.ms-excel,https://microsoft.fandom.com/wiki/Microsoft_Office_97
+135,Microsoft Powerpoint Presentation,97-2003,1996/02/28,ppt,fmt/126,application/vnd.ms-powerpoint,https://microsoft.fandom.com/wiki/Microsoft_Office_97
+618,Acrobat PDF 1.5 - Portable Document Format,1.5,01 Jan 2003,pdf,fmt/19,application/pdf,https://www.nationalarchives.gov.uk/PRONOM/fmt/19
+617,Acrobat PDF 1.4 - Portable Document Format,1.4,01 Dec 2001,pdf,fmt/18,application/pdf,https://www.nationalarchives.gov.uk/PRONOM/fmt/18
+616,Acrobat PDF 1.3 - Portable Document Format,1.3,11 Mar 1999,pdf,fmt/17,application/pdf,https://www.nationalarchives.gov.uk/PRONOM/fmt/17
+671,Still Picture Interchange File Format,1.0,1996,spf jpg,fmt/112,image/jpeg,https://www.loc.gov/preservation/digital/formats/fdd/fdd000019.shtml
+382,ZIP Format,,1989/02/14,zip,x-fmt/263,application/zip,http://cd.textfiles.com/pcmedic9310/MAIN/MISC/COMPRESS/ZIP.PRS
+941,Microsoft Powerpoint for Windows,2007 onwards,2007/01/30,pptx,fmt/215,application/vnd.openxmlformats-officedocument.presentationml.presentation,https://microsoft.fandom.com/wiki/Microsoft_Office_2007
+665,Portable Network Graphics,1.1,1998/12/31,png,fmt/12,image/png,http://www.libpng.org/pub/png/spec/1.0/
+1016,Acrobat PDF 1.7 - Portable Document Format,1.7,2006/11,pdf,fmt/276,application/pdf,https://archive.org/details/pdf1.7
+770,Acrobat PDF/A - Portable Document Format,1a,01 Oct 2005,pdf,fmt/95,application/pdf,https://www.nationalarchives.gov.uk/PRONOM/fmt/95
+658,Quicktime,,1991/12/02,mov qtm,x-fmt/384,video/quicktime,https://thisdayintechhistory.com/12/02/apple-releases-quicktime/
+655,Audio/Video Interleaved Format,,1992/11/10,avi,fmt/5,video/x-msvideo,https://en.wikipedia.org/wiki/Audio_Video_Interleave
+1103,3GPP Audio/Video File,,2003-04-04,3gp 3gpp,fmt/357,audio/3gpp video/3gpp,https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=1441
+924,MPEG-4 Media File,,1998,mp4 m4v m4a f4v f4a,fmt/199,application/mp4 video/mp4,https://books.google.nl/books?id=ftRvA08WcM4C&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+1893,TRIM Context Reference File,,2013/09,tr5 txt,fmt/1085,,https://community.opentext.com/cfs-file/__key/communityserver-discussions-components-files/236/RM8.0_5F00_ReleaseNotes.pdf
+673,Exchangeable Image File Format (Uncompressed),2.1,1998/12,tif tiff,x-fmt/388,image/tiff,https://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+1255,ISO 9660 Disk Image File,,1988,iso toast cdr dmg bin,fmt/468,,https://dubeyko.com/development/FileSystems/ISO9960/ISO9960.html
+134,Microsoft Powerpoint Presentation,95,1995/08/24,ppt,fmt/125,application/vnd.ms-powerpoint,https://microsoft.fandom.com/wiki/Microsoft_Office_95
+885,Microsoft PowerPoint for Macintosh,4.0,1994,ppt,fmt/179,application/vnd.ms-powerpoint,https://en.wikipedia.org/wiki/List_of_Macintosh_software_published_by_Microsoft
+886,Microsoft PowerPoint for Macintosh,98,1999/02,ppt,fmt/180,application/vnd.ms-powerpoint,https://archive.org/details/X04-66827
+887,Microsoft PowerPoint for Macintosh,2001,2000/10,ppt,fmt/181,application/vnd.ms-powerpoint,https://archive.org/details/X06-02709
+888,Microsoft PowerPoint for Macintosh,X,2001,ppt,fmt/182,application/vnd.ms-powerpoint,https://www.macintoshrepository.org/1329-microsoft-office-x
+133,Microsoft PowerPoint Presentation,4.x,1994/01/17,ppt,x-fmt/88,application/vnd.ms-powerpoint,https://www.itpro.com/email-clients/25623/microsoft-office-is-25-today
+351,Microsoft Access Database File,97,1996/02/28,mdb mda mdt mde,x-fmt/239,application/msaccess,https://microsoft.fandom.com/wiki/Microsoft_Office_97
+1420,RIFF Palette Format,,1991/08,pal,fmt/624,,https://www.aelius.com/njh/wavemetatools/doc/riffmci.pdf
+678,Microsoft Excel 2.x Worksheet (xls),2,1987/08/29,xls,fmt/55,application/vnd.ms-excel,https://winworldpc.com/product/microsoft-excel/2-0
+670,Raw JPEG Stream,,1992,jpe jpg jpeg jif jfif jfi,fmt/41,image/jpeg,https://jpeg.org/jpeg/
+676,Exchangeable Image File Format (Compressed),2.2,2002/04,jpg jpeg,x-fmt/391,image/jpeg,https://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+767,OLE2 Compound Document Format,,2003,,fmt/111,,https://www.openoffice.org/sc/compdocfileformat.pdf
+910,Microsoft Office Open XML,2007 onwards,2006/12/07,,fmt/189,,http://officeopenxml.com/
+733,Microsoft Word for Windows Document,1.0,1989/11/15,doc,fmt/37,application/msword,https://archive.org/details/mswordwin10
+734,Microsoft Word for Windows Document,2.0,1991,doc,fmt/38,application/msword,https://archive.org/details/microsoft-word-2.0-for-windows_202008
+688,Microsoft Word Document,6.0/95,1993,doc,fmt/39,application/msword,https://winworldpc.com/product/microsoft-word/6x
+1260,Microsoft Office Owner File,,1990/10/01,doc docx,fmt/473,,https://web.archive.org/web/20101006110150/https://channel9.msdn.com/Series/History/The-History-of-Microsoft-1990
+1401,Microsoft Word (Generic),6.0-2003,2003,doc,fmt/609,application/msword,
+188,Microsoft Word for Macintosh Document,X,2001/11/19,doc,x-fmt/129,application/msword,https://apple.fandom.com/wiki/Microsoft_Office_v._X
+190,Stationery for Mac OS X,,1991/05/13,doc,x-fmt/131,,https://apple.fandom.com/wiki/System_7
+11,Microsoft Word for Macintosh Document,6.0,1993,doc,x-fmt/2,application/msword,https://winworldpc.com/product/microsoft-word/6x
+405,Microsoft Word for MS-DOS Document,3.0,1986/4/10,doc,x-fmt/273,application/msword,https://winworldpc.com/product/microsoft-word/3x-dos
+406,Microsoft Word for MS-DOS Document,1.x - 4.0,1983/10/01,doc,x-fmt/274,application/msword,https://archive.org/details/microsoft-word-1.00-for-dos
+407,Microsoft Word for MS-DOS Document,5.0 - 5.4,1989/04,doc,x-fmt/275,application/msword,https://winworldpc.com/product/microsoft-word/5x-dos
+408,Microsoft Word for MS-DOS Document,5.5,1990/10/04,doc,x-fmt/276,application/msword,https://www.betaarchive.com/database/view_release.php?uuid=102dac1a-7e57-4460-8012-8aae006a754b
+492,Interleaf Document,,1985,doc,x-fmt/329,,https://retrocomputing.stackexchange.com/questions/19900/what-is-the-name-of-the-publishing-software-used-at-ibm-in-the-late-80s
+73,Wordperfect Secondary File,5.0,1988/05/05,doc,x-fmt/42,application/vnd.wordperfect,https://winworldpc.com/product/wordperfect/50-dos
+74,Wordperfect Secondary File,5.1/5.2,1989/11/06,doc,x-fmt/43,application/vnd.wordperfect,https://winworldpc.com/product/wordperfect/5x-dos
+75,WordPerfect for MS-DOS/Windows Document,6.x,13 Sep 1993,doc wpd wp6 wp w60 w61 w62,x-fmt/44,application/vnd.wordperfect,https://www.nationalarchives.gov.uk/PRONOM/x-fmt/44
+641,Hypertext Markup Language,4.0,24 Apr 1998,htm html,fmt/99,text/html,https://www.nationalarchives.gov.uk/PRONOM/fmt/99
+784,Waveform Audio (PCMWAVEFORMAT),,1991/08,wav wave,fmt/141,audio/x-wav,https://mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html
+675,Exchangeable Image File Format (Compressed),2.1,1998/12,jpg jpeg,x-fmt/390,image/jpeg,https://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+686,JP2 (JPEG 2000 part 1),,15 Sep 2004,jp2,x-fmt/392,image/jp2,https://www.nationalarchives.gov.uk/PRONOM/x-fmt/392
+619,Graphics Interchange Format,87a,15 Jun 1987,gif,fmt/3,image/gif,https://www.nationalarchives.gov.uk/PRONOM/fmt/3
+794,JPX (JPEG 2000 part 2),,2000,jpx jpf,fmt/151,image/jpx,
+1755,MIME Email,1.0,1996/11,eml,fmt/950,message/rfc822,https://datatracker.ietf.org/doc/html/rfc2045
+620,Graphics Interchange Format,89a,31 Jul 1990,gif,fmt/4,image/gif,https://www.nationalarchives.gov.uk/PRONOM/fmt/4
+1033,OpenDocument Text,1.1,2007/02/01,odt ott,fmt/290,application/vnd.oasis.opendocument.text,https://dans.knaw.nl/nl/bestandsformaten/tekstdocumenten/opendocument-text-odt/
+780,OpenDocument Spreadsheet,1.0,01 May 2005,ods ots,fmt/137,application/vnd.oasis.opendocument.spreadsheet,https://www.nationalarchives.gov.uk/PRONOM/fmt/137
+940,Microsoft Excel for Windows,2007 onwards,2007/01/30,xlsx,fmt/214,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,https://microsoft.fandom.com/wiki/Microsoft_Office_2007
+664,Portable Network Graphics,1.0,1996/10/01,png,fmt/11,image/png,http://www.libpng.org/pub/png/spec/
+1250,JPM (JPEG 2000 part 6),,2000,jpm,fmt/463,image/jpm,
+1034,OpenDocument Text,1.2,2011/09/29,odt ott,fmt/291,application/vnd.oasis.opendocument.text,https://dans.knaw.nl/nl/bestandsformaten/tekstdocumenten/opendocument-text-odt/
+1100,Acrobat PDF/A - Portable Document Format,1b,01 Oct 2005,pdf,fmt/354,application/pdf,https://www.nationalarchives.gov.uk/PRONOM/fmt/354
+1264,Acrobat PDF/A - Portable Document Format,2b,2011/06/20,pdf,fmt/477,application/pdf,https://www.iso.org/standard/50655.html
+1258,Hypertext Markup Language,5,2008/01/22,htm html,fmt/471,text/html,https://www.w3.org/TR/2008/WD-html5-20080122/
+818,Acrobat PDF/X - Portable Document Format - Exchange 1a:2001,,2001,pdf,fmt/157,application/pdf,
+1275,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,,2008/03,pdf,fmt/488,application/pdf,https://www.iso.org/standard/42876.html
+631,Rich Text Format,1.5-1.6,1997/04,rtf,fmt/50,application/rtf text/rtf,http://support.microsoft.com/kb/924944
+819,Acrobat PDF/X - Portable Document Format - Exchange 3:2002,,2002,pdf,fmt/158,application/pdf,
+1029,WARC,,15 May 2009,warc,fmt/289,application/warc,https://www.nationalarchives.gov.uk/PRONOM/fmt/289
+1357,Matroska,1-4,06 Dec 2002,mkv mk3d mka mks,fmt/569,audio/x-matroska video/x-matroska,https://www.nationalarchives.gov.uk/PRONOM/fmt/569
+687,MPEG 1/2 Audio Layer 3,,1991,mp3,fmt/134,audio/mpeg,https://www.ee.columbia.edu/~dpwe/papers/Brand99-mp3.pdf
+667,JPEG File Interchange Format,1.00,1992,jpeg jpe jpg jif jfif jfi,fmt/42,image/jpeg,https://jpeg.org/jpeg/
+660,MPEG-2 Program Stream,,1996/04,mpeg mpg mod,x-fmt/386,video/mpeg,https://apple.fandom.com/wiki/MPEG-2
+737,WordPerfect for MS-DOS/Windows Document,5.1,01 Nov 1989,wp5 wpd w51 wp doc,x-fmt/394,application/vnd.wordperfect,https://www.nationalarchives.gov.uk/PRONOM/x-fmt/394
+1018,Internet Message Format,,2001/04,eml,fmt/278,message/rfc822,https://archive.org/details/rfc2822
+1263,Acrobat PDF/A - Portable Document Format,2a,2011/06/20,pdf,fmt/476,application/pdf,https://www.iso.org/standard/50655.html
+1265,Acrobat PDF/A - Portable Document Format,2u,2011/06/20,pdf,fmt/478,application/pdf,https://www.iso.org/standard/50655.html
+1266,Acrobat PDF/A - Portable Document Format,3a,2012/10/15,pdf,fmt/479,application/pdf,https://www.iso.org/standard/57229.html
+1267,Acrobat PDF/A - Portable Document Format,3b,2012/10/15,pdf,fmt/480,application/pdf,https://www.iso.org/standard/57229.html
+1268,Acrobat PDF/A - Portable Document Format,3u,2012/10/15,pdf,fmt/481,application/pdf,https://www.iso.org/standard/57229.html
+1276,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p,,2008/03,pdf,fmt/489,application/pdf,https://www.iso.org/standard/42876.html
+1277,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5g,,2005/05,pdf,fmt/490,application/pdf,https://www.iso.org/standard/42877.html
+1278,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5pg,,2005/05,pdf,fmt/491,application/pdf,https://www.iso.org/standard/42877.html
+1279,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5n,,2005/05,pdf,fmt/492,application/pdf,https://www.iso.org/standard/42877.html
+1280,Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1,,2008/05,pdf,fmt/493,application/pdf,https://www.iso.org/standard/42274.html
+1230,Microsoft Visio Drawing,2003-2010,2003-12,vsd,fmt/443,application/vnd.visio,https://archive.org/details/X10-14797
+753,Rich Text Format,1.8,2004/08,rtf,fmt/53,application/rtf text/rtf,http://support.microsoft.com/kb/924944
+1281,Microsoft Office Encrypted Document,2007 Onwards,2007/06,xlsx pptx docx,fmt/494,,https://www.wiu.edu/Awareness/technology/documents/2007OfficeDocumentEncryption.pdf
+877,Microsoft Excel for Macintosh,3.0,1991/03/25,xls,fmt/172,application/vnd.ms-excel,https://archive.org/details/microsoft-excel-for-macintoshtm-3.0-1991
+878,Microsoft Excel for Macintosh,4.0,1992/03/25,xls,fmt/173,application/vnd.ms-excel,https://www.computerhistory.org/tdih/march/25/
+879,Microsoft Excel for Macintosh,98,1998-04,xls,fmt/174,application/vnd.ms-excel,https://en.wikipedia.org/wiki/Microsoft_Office_98_Macintosh_Edition
+881,Microsoft Excel for Macintosh,2001,2000/10,xls,fmt/175,application/vnd.ms-excel,https://archive.org/details/X06-02824
+882,Microsoft Excel for Macintosh,2002,2002,xls,fmt/176,application/vnd.ms-excel,
+883,Microsoft Excel for Macintosh,2004,2004/5/11,xls,fmt/177,application/vnd.ms-excel,https://en.wikipedia.org/wiki/Microsoft_Office_2004_for_Mac
+884,Microsoft Excel for Macintosh,X,2001,xls,fmt/178,application/vnd.ms-excel,https://www.macintoshrepository.org/1329-microsoft-office-x
+679,Microsoft Excel 3.0 Worksheet (xls),3,1991,xls,fmt/56,application/vnd.ms-excel,https://winworldpc.com/product/microsoft-excel/3x-os-2
+680,Microsoft Excel 4.0 Worksheet (xls),4S,1992/03/25,xls,fmt/57,application/vnd.ms-excel,https://www.computerhistory.org/tdih/march/25/
+683,Excel 95 Workbook (xls),7,1995/08/24,xls,fmt/60,application/vnd.ms-excel,https://microsoft.fandom.com/wiki/Microsoft_Office_95
+685,Microsoft Excel 2000-2003 Workbook (xls),8X,1999/06/10,xlw xls,fmt/62,application/vnd.ms-excel,https://microsoft.fandom.com/wiki/Microsoft_Office_2000
+682,Microsoft Excel 5.0/95 Workbook (xls),5/95,1995/02,xlw xls,fmt/59,application/vnd.ms-excel,https://archive.org/details/ms-excel50-nt
+787,Acrobat PDF/X - Portable Document Format - Exchange 1:1999,,1999,pdf,fmt/144,application/pdf,
+789,Acrobat PDF/X - Portable Document Format - Exchange 1a:2003,,2003,pdf,fmt/146,application/pdf,
+790,Acrobat PDF/X - Portable Document Format - Exchange 2:2003,,2003,pdf,fmt/147,application/pdf,
+791,Acrobat PDF/X - Portable Document Format - Exchange 3:2003,,2003,pdf,fmt/148,application/pdf,
+1101,Rich Text Format,1.9,2008/03/19,rtf,fmt/355,application/rtf text/rtf,https://docslib.org/doc/6649763/rich-text-format-rtf-specification-version-1-9-1
+795,Digital Negative Format (DNG),1.1,2004/09/27,dng tif tiff,fmt/152,image/dng image/tiff,https://web.archive.org/web/20140821073133/https://www.adobe.com/aboutadobe/pressroom/pressreleases/200409/092704DNG.html
+796,Tagged Image File Format for Image Technology (TIFF/IT),,1986/09/12,tif tiff,fmt/153,image/tiff,https://nl.wikipedia.org/wiki/Tagged_image_file_format
+797,Tagged Image File Format for Electronic Photography (TIFF/EP),,1986/09/12,tif tiff,fmt/154,image/tiff,https://nl.wikipedia.org/wiki/Tagged_image_file_format
+798,Geographic Tagged Image File Format (GeoTIFF),,1986/09/12,tif tiff cog,fmt/155,image/tiff,https://nl.wikipedia.org/wiki/Tagged_image_file_format
+1503,Broadcast WAVE,1 PCM Encoding,1997,wav,fmt/704,audio/x-wav,https://tech.ebu.ch/docs/tech/tech3285.pdf
+638,Extensible Markup Language,1.0,01 Jan 1998,xml,fmt/101,application/xml text/xml,https://www.nationalarchives.gov.uk/PRONOM/fmt/101
+776,Windows Portable Executable,,1993/07/25,exe dll sys,x-fmt/411,application/vnd.microsoft.portable-executable,https://winworldpc.com/product/windows-nt-3x/31
+206,Stats+ Data File,,2022/01/24,,x-fmt/145,,https://steamcommunity.com/sharedfiles/filedetails/?id=2729900570
+316,Cascading Style Sheet,,1996/12/17,css,x-fmt/224,text/css,https://www.webdesignmuseum.org/web-design-history/css-1-1996
+103,Log File,,1979,log,x-fmt/62,,http://bees-knees.mit.edu/trac/trac.fcgi/browser/trunk/server/fedora/config/etc/syslog.conf?rev=1979
+385,Tape Archive Format,,1979/01,tar,x-fmt/265,application/x-tar,https://man.freebsd.org/cgi/man.cgi?query=tar&apropos=0&sektion=5&manpath=FreeBSD+7.0-RELEASE&arch=default&format=html
+388,BZIP2 Compressed Archive,,1996/07/18,bz2,x-fmt/268,application/x-bzip2,https://www.ncbi.nlm.nih.gov/IEB/ToolBox/CPP_DOC/lxr/source/src/util/compress/bzip2/README
+934,Binary File,,1970,bin,fmt/208,,
+805,Icon file format,,2003-09-03,ico,x-fmt/418,image/vnd.microsoft.icon image/x-icon,https://www.iana.org/assignments/media-types/image/vnd.microsoft.icon
+807,Windows Setup File,,1995/08/24,inf,x-fmt/420,application/inf,https://microsoft.fandom.com/wiki/Microsoft_Office_95
+1444,Exchangeable Image File Format (Compressed),2.21,2003/09,jpg jpeg,fmt/645,image/jpeg,https://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+1939,PDF 2.0 - Portable Document Format,2.0,2020/12,pdf,fmt/1129,application/pdf,https://www.iso.org/standard/75839.html
+1310,Macro enabled Microsoft Word Document OOXML,2007 Onwards,2007/01/30,docm,fmt/523,application/vnd.ms-word.document.macroEnabled.12,https://microsoft.fandom.com/wiki/Microsoft_Office_2007
+1696,Compound WordPerfect for Windows Document,6 onwards,1993/09,wpd doc wp6 wp w60,fmt/892,application/vnd.wordperfect,https://archive.org/details/word-perfect-six-o-6.0-windows-1993
+642,Hypertext Markup Language,4.01,24 Dec 1999,htm html,fmt/100,text/html,https://www.nationalarchives.gov.uk/PRONOM/fmt/100
+1232,Microsoft Excel Macro-Enabled,2007,2007/01/30,xlsm,fmt/445,application/vnd.ms-excel.sheet.macroEnabled.12,https://microsoft.fandom.com/wiki/Microsoft_Office_2007
+693,Windows Media Video,,01 Dec 2004,asf wmv,fmt/133,video/x-ms-wmv,https://www.nationalarchives.gov.uk/PRONOM/fmt/133
+1348,Adobe Illustrator,11.0,2003/09,ai pdf,fmt/560,application/postscript,https://adobe.fandom.com/wiki/Adobe_Illustrator#Versions_CS_(11)_&_CS2_(12)
+1073,EndNote Import File,,1989,enw enr,fmt/328,application/x-endnote-refer,"Miller, S., EndNote. Computers and the Humanities 1989, 23 (6), 489-491"
+1439,MPEG-2 Elementary Stream,,1996/04,mpg mpeg m2v,fmt/640,,https://apple.fandom.com/wiki/MPEG-2
+1448,MPEG-1 Elementary Stream,,1993/08,mpg mpeg m1v,fmt/649,,https://apple.fandom.com/wiki/MPEG-1
+659,MPEG-1 Program Stream,,1993/08,mpeg mpg,x-fmt/385,video/mpeg,https://apple.fandom.com/wiki/MPEG-1
+1512,RF64 Multichannel Broadcast Wave format,,2007,wav rf64,fmt/713,,https://tech.ebu.ch/docs/tech/tech3306.pdf
+1502,Broadcast WAVE,0 PCM Encoding,1997,wav,fmt/703,audio/x-wav,https://tech.ebu.ch/docs/tech/tech3285.pdf
+1504,Broadcast WAVE,2 PCM Encoding,1997,wav,fmt/705,audio/x-wav,https://tech.ebu.ch/docs/tech/tech3285.pdf
+666,Portable Network Graphics,1.2,1999/12/31,png,fmt/13,image/png,http://www.libpng.org/pub/png/spec/1.1/
+139,Adobe Photoshop,,1990/02,psd pdd,x-fmt/92,image/vnd.adobe.photoshop,https://www.psd-dude.com/tutorials/resources/adobe-photoshop-twenty-five-years-anniversary-infographic.aspx
+654,Waveform Audio,,1991/08,wav,fmt/6,audio/x-wav,https://www.aelius.com/njh/wavemetatools/doc/riffmci.pdf
+613,Acrobat PDF 1.0 - Portable Document Format,1.0,1993/06/15,pdf,fmt/14,application/pdf,https://pdf-aktuell.ch/pa/language/en/adobe-acrobat-1-0-was-released-30-years-ago/
+645,Hypertext Markup Language,,1993/06,htm html,fmt/96,text/html,https://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt
+45,Comma Separated Values,,1972/07,csv,x-fmt/18,text/csv,https://bitsavers.trailing-edge.com/pdf/ibm/370/fortran/GC28-6884-0_IBM_FORTRAN_Program_Products_for_OS_and_CMS_General_Information_Jul72.pdf
+923,MPEG Audio Stream Layer II,,1991/12/06,mp2 mpw mpa,fmt/198,audio/mpeg,https://dl.acm.org/doi/10.1145/166266.166274
+1142,DS_Store File (MAC),,1984/01/24,ds_store,fmt/394,,https://en.wikipedia.org/wiki/System_1
+386,GZIP Format,,1992/08/31,gz z,x-fmt/266,application/gzip,https://gzip.ru/skachat-gzip/
+869,TrueType Font,,18 Dec 2003,ttf,x-fmt/453,font/ttf,https://www.nationalarchives.gov.uk/PRONOM/x-fmt/453
+692,Windows Media Audio,,01 Dec 2004,wma asf,fmt/132,audio/x-ms-wma,https://www.nationalarchives.gov.uk/PRONOM/fmt/132
+769,DROID File Collection File Format,1.0,17 Sep 2005,xml,fmt/120,text/xml,https://www.nationalarchives.gov.uk/PRONOM/fmt/120
+768,DROID Signature File Format,1.0,17 Sep 2005,xml,fmt/121,text/xml,https://www.nationalarchives.gov.uk/PRONOM/fmt/121
+785,Waveform Audio (WAVEFORMATEX),,1991/08,wav wave,fmt/142,audio/x-wav,https://mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html
+633,Rich Text Format,1.7,2001/08/31,rtf,fmt/52,application/rtf text/rtf,https://web.archive.org/web/20101112181441/http://www.microsoft.com/downloads/en/details.aspx?familyid=E5B8EBC2-6AD6-49F0-8C90-E4F763E3F04F&displaylang=en
+614,Acrobat PDF 1.1 - Portable Document Format,1.1,1994/11,pdf,fmt/15,application/pdf,https://www.prepressure.com/pdf/basics/version
+352,Microsoft Access Database File,2000,1999/06/10,mdb mde,x-fmt/240,application/msaccess,https://microsoft.fandom.com/wiki/Microsoft_Office_2000
+929,Ogg Vorbis Codec Compressed Multimedia File,,2000/05/08,ogg,fmt/203,audio/ogg,https://lists.xiph.org/pipermail/vorbis-dev/2000-May/000201.html
+19,dBASE Database,III,1984,dbf,x-fmt/9,application/dbf,https://www.dosdays.co.uk/topics/Software/dbase.php
+729,Windows Bitmap,3.0,1990,dib bmp,fmt/116,image/bmp,
+626,Rich Text Format,1.0-1.4,1987,rtf,fmt/45,application/rtf text/rtf,http://support.microsoft.com/kb/924944
+1909,High Efficiency Image File Format,,2015/10,heic,fmt/1101,image/heif,http://mpeg.chiariglione.org/sites/default/files/files/meetings/docs/w15328.docx
+1371,Vector Markup Language,,1998/05/13,vml html htm,fmt/583,,https://www.w3.org/TR/1998/NOTE-VML-19980513
+331,Encapsulated PostScript File Format,3,01 May 1992,eps epsf ps,fmt/124,application/postscript,https://www.nationalarchives.gov.uk/PRONOM/fmt/124
+1709,Bluetooth Snoop Packet Capture,,2013/10/31,log,fmt/904,,https://source.android.com/docs/core/connect/bluetooth/verifying_debugging
+375,Microsoft Publisher,2002,2002/05/31,pub,x-fmt/257,application/x-mspublisher,https://microsoft.fandom.com/wiki/Microsoft_Office_XP
+820,MHTML,,1999/03,mht mhtml,x-fmt/429,multipart/related,https://datatracker.ietf.org/doc/html/rfc2557
+444,CorelDraw Drawing,7.0,1998/05,cdr,x-fmt/291,,https://openlibrary.org/books/OL13267050M/CorelDRAW_7.0
+1227,Microsoft Project,2007,2006/04,mpp,fmt/440,application/vnd.ms-project,https://download.microsoft.com/documents/uk/mediumbusiness/products/desktopsoftware/projectstandard2007productguide.pdf
+996,Microsoft Works Word Processor 5-6,,2000,wps,fmt/258,,https://winworldpc.com/product/microsoft-works/5x
+1428,Microsoft PowerPoint Show,2007,2007/01/30,ppsx,fmt/629,application/vnd.openxmlformats-officedocument.presentationml.slideshow,https://microsoft.fandom.com/wiki/Microsoft_Office_2007
+1136,Internet Calendar and Scheduling format,,1998,ics,fmt/388,text/calendar,https://icalendar.org/
+1289,Bentley V8 DGN,,2000,dgn,fmt/502,,https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html
+751,Exchangeable Image File Format (Compressed),2.0,1997/11,jpg jpeg,x-fmt/398,image/jpeg,https://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+808,Text Configuration file,,1970,ini,x-fmt/421,,https://en.wikipedia.org/wiki/Configuration_file
+1352,Adobe Illustrator,15.0,2010/04/30,ai pdf,fmt/564,application/postscript,https://archive.org/details/adobe-illustrator-cs5-15.0.2-for-windows-update-only
+1456,Open XML Paper Specification,,2006/12/07,xps oxps,fmt/657,application/oxps,https://news.microsoft.com/2006/12/07/ecma-international-approves-office-open-xml-as-worldwide-industry-standard/
+1092,MPEG 1/2 Audio Layer I,,1991/12/06,mp1,fmt/347,audio/mpeg,https://dl.acm.org/doi/10.1145/166266.166274
+1808,Nearly Raw Raster Data,2,1998,nrrd,fmt/1003,,https://teem.sourceforge.net/nrrd/intro.html
+921,Adobe InDesign Document,CS,2003/09,indd ind indt,fmt/196,,https://adobe.fandom.com/wiki/Adobe_Creative_Suite
+1336,Adobe InDesign Document,CS2,2005/02/23,ind indd indt,fmt/548,,https://archive.org/details/adobe-photoshop-cs2
+1337,Adobe InDesign Document,CS3,2007/03/21,ind indd indt,fmt/549,,https://archive.org/details/Adobe_Photoshop-CS3/resources/media/img/progbarRight.png
+1338,Adobe InDesign Document,CS4,2008/10/15,ind indd indt,fmt/550,,https://adobe.fandom.com/wiki/Adobe_Creative_Suite_4
+1339,Adobe InDesign Document,CS5,2010/04/30,ind indd indt,fmt/551,,https://www.pcworld.com/article/195330/adobe_creative_suite_5_starts_shipping.html
+1340,Adobe InDesign Document,CS6,2012/03/21,ind indd indt,fmt/552,,https://web.archive.org/web/20120322190250/http://labs.adobe.com/downloads/photoshopcs6.html
+1036,OpenDocument Presentation,1.2,2011/09/29,odp otp,fmt/293,application/vnd.oasis.opendocument.presentation,https://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2.pdf
+727,Windows Bitmap,1.0,1990,ddb bmp,fmt/114,image/bmp,https://online-omzetten.nl/dateiformat/bmp/
+728,Windows Bitmap,2.0,1990,bmp dib,fmt/115,image/bmp,
+730,Windows Bitmap,3.0 NT,1990,dib bmp,fmt/117,image/bmp,
+731,Windows Bitmap,4.0,1990,bmp dib,fmt/118,image/bmp,
+732,Windows Bitmap,5.0,1990,bmp dib,fmt/119,image/bmp,
+402,OS/2 Bitmap,2.0,1992/03/02,bmp,x-fmt/270,image/bmp,https://os-2.in/
+927,Nikon Digital SLR Camera Raw Image File,,1995,nef nrw,fmt/202,,https://www.kenrockwell.com/nikon/dslr.htm
+1592,RPM Package Manager file,1,1995/09,rpm src.rpm,fmt/793,,https://rpm.org/timeline.html
+1593,RPM Package Manager file,2,1996/03/05,rpm src.rpm,fmt/794,,https://rpm.org/timeline.html
+1594,RPM Package Manager file,3,1999/04/19,rpm src.rpm,fmt/795,,https://rpm.org/timeline.html
+810,JavaScript file,,1996/05/29,js,x-fmt/423,application/javascript,https://news.microsoft.com/source/1996/05/29/microsoft-internet-explorer-3-0-beta-now-available/
+256,RealAudio Metafile,,1995/04,ram,x-fmt/183,audio/vnd.rn-realaudio audio/x-pn-realaudio,https://docs.fileformat.com/audio/ra/
+648,Macromedia Flash,3,1998/04,swf,fmt/106,application/x-shockwave-flash,https://archive.org/details/macromedia_flash3_zflw30cd
+263,RealMedia,,1995/04/15,rm rmvb,x-fmt/190,application/vnd.rn-realmedia,https://25yearsofstreaming.com/
+649,Macromedia Flash,4,1999-06,swf,fmt/107,application/x-shockwave-flash,https://archive.org/details/macromedia_flash4_zflwin40cd
+1704,Windows Portable Executable,32 bit,1993/07/25,exe dll sys,fmt/899,application/vnd.microsoft.portable-executable,https://winworldpc.com/product/windows-nt-3x/31
+51,7-bit ASCII Text,,1967,asc,x-fmt/22,text/plain,https://textfiles.meulie.net/bitsaved/Books/Mackenzie_CodedCharSets.pdf
+434,8-bit ASCII Text,,1981,asc,x-fmt/283,text/plain,https://theasciicode.com.ar/ascii-printable-characters/number-eight-ascii-code-56.html
+1384,Canon RAW,2.0,1992,cr2,fmt/592,,https://global.canon/en/c-museum/history/story08.html
+1318,AutoCAD Drawing,2013/2014,2012/03/27,dwg,fmt/531,image/vnd.dwg,https://en.wikipedia.org/wiki/AutoCAD_version_history
+925,Material Exchange Format,Operational Pattern 1a,2004/09/22,mxf,fmt/200,application/mxf,https://en.wikipedia.org/wiki/Material_Exchange_Format
